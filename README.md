@@ -1,7 +1,7 @@
 # Python-Libraries-Setup
 
 ## For Ubuntu:
-#### Run the following command in terminal with the .sh file in the same directory
+### Download the ubuntu_install.sh file and run the following command in terminal with the .sh file in the same directory
 ```sh
 sh ubuntu_install.sh
 ```
