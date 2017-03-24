@@ -21,6 +21,8 @@ sudo pip install Flask
 #beautiful soup
 sudo pip install beautifulsoup4
 
+#pillow
+sudo pip install pillow
 
 if [ $flag == 1 ]
 then
